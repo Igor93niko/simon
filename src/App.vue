@@ -239,8 +239,7 @@ button:hover{
 .lose{
   position: absolute;
   top: 5em;
-  right: 25%;
-  width: 50%;
+  width: 100%;
   height: 200px;
   background-color: white;
 }

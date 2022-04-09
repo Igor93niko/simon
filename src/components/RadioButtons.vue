@@ -24,7 +24,4 @@ export default{
 </script>
 <style scoped>
 
-.line{
-
-}
 </style>
